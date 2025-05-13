@@ -5,7 +5,7 @@ int add(int a, int b) {
 }
 
 int main() {
-    int result = add(3, 4);
+    int result = add(4, 4);
     printf("Sum of 3 and 4 is: %d\n", result);
     return 0;
 }
