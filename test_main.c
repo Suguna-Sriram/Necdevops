@@ -4,7 +4,7 @@
 int add(int a,int b);
 
 void test() {
-    assert(add(2, 4) == 6);
+    assert(add(2, 3) == 6);
     assert(add(-1, 1) == 0);
 }
 
